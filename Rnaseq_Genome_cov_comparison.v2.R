@@ -1,4 +1,3 @@
-setwd("/mnt/DATA/Joao_cunha/CCNVs/Paper_pdf_figures/Data-20240208T120651Z-001/Data/RNAseq_analysis/Genome_coverages")
 library(ggplot2)
 library(dplyr)
 library(reshape)
